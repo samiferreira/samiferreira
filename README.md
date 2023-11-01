@@ -1,16 +1,23 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
+ 
+Ola, eu sou a samira
 
-<!--
-**samiferreira/samiferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -  🔭 Hoje eu trabalho como suporte -TI
+- 🌱 eu estou estudando JS e PHP 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div style= "Display: inline-block"><br>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+<img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/samira-ferreira-887a081a0" target= "-blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
