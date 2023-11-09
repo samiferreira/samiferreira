@@ -1,4 +1,4 @@
-<img width=300px src="https://www.pngwing.com/en/free-png-immiw"/>
+<img width=400px src="https://art.pixilart.com/cb97514d85c12ba.gif"/>
  
 Ola, eu sou a samira
 
