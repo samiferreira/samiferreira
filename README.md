@@ -5,7 +5,7 @@
 Ola, eu sou a samira
 
  -  🔭 Hoje eu trabalho como suporte -TI
-- 🌱 eu estou estudando JS e PHP 
+- 🌱 eu estou estudando JS e .net
 
 
 ##
