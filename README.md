@@ -2,10 +2,7 @@
  <img align="center" heigth="200" width="400" src="https://art.pixilart.com/cb97514d85c12ba.gif"/>
 
 
-Ola, eu sou a samira
-
- -  🔭 Hoje eu trabalho como suporte -TI
-- 🌱 eu estou estudando JS e .net
+Ola, eu sou a samira, Full stack developer @ DTI
 
 
 ##
