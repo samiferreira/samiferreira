@@ -4,6 +4,9 @@
 
 <h1 align="center"> ✨ Olá, eu sou Samira Ferreira</h1>
 <h3 align="center"> Desenvolvedora Full-stack 👩🏿‍💻 </h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Bem-vindo!+🌸;" alt="Typing animation">
+</p>
 
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="samira" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
