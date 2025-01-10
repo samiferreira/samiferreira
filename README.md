@@ -2,7 +2,7 @@
  <img width="400" src="https://art.pixilart.com/cb97514d85c12ba.gif"/>
 </div>
 
-<h1 align="center">Olá, eu sou Samira Ferreira</h1>
+<h1 align="center"> ✨ Olá, eu sou Samira Ferreira</h1>
 <h3 align="center"> Desenvolvedora Full-stack 👩🏿‍💻 </h3>
 
 <div align="center" style="display: inline_block"><br>
